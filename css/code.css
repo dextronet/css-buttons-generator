@@ -1,0 +1,13 @@
+body {
+  background: #2a2a2a;
+  margin: 0;
+  padding: 30px;
+  color: #f7f7f7;
+  font-size: 14px;
+}
+
+pre {
+  margin: 0;
+  padding: 0;
+  font-family: 'consolas', 'courier new';
+}

@@ -1,0 +1,166 @@
+.two-line-download-button {
+  display: block;
+  float: left;
+  text-align: center;
+  background-color: #73b10e;
+  border: 1px solid #558507;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  line-height: 1.1;
+  padding: 10px 26px 12px;
+  -moz-text-shadow: 1px 1px 1px #3f5d0d;
+  -webkit-text-shadow: 1px 1px 1px #3f5d0d;
+  -o-text-shadow: 1px 1px 1px #3f5d0d;
+  text-shadow: 1px 1px 1px #3f5d0d;
+  font-size: 13px;
+  font-weight: normal;
+  border-radius: 35px;
+  background-image: -webkit-linear-gradient(top, #83c11f 0%, #8dbf3d 48%, #76b119 49%, #76b119 85%, #87c426 100%);
+  background-image: -moz-linear-gradient(top, #83c11f 0%, #8dbf3d 48%, #76b119 49%, #76b119 85%, #87c426 100%);
+  background-image: -ms-linear-gradient(top, #83c11f 0%, #8dbf3d 48%, #76b119 49%, #76b119 85%, #87c426 100%);
+  background-image: -o-linear-gradient(top, #83c11f 0%, #8dbf3d 48%, #76b119 49%, #76b119 85%, #87c426 100%);
+  background-image: linear-gradient(top, #83c11f 0%, #8dbf3d 48%, #76b119 49%, #76b119 85%, #87c426 100%);
+  -webkit-box-shadow: inset 0 0 1px 1px #a6d65b, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #a6d65b, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px #a6d65b, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+/* line 24, ../../app/assets/stylesheets/addons/_download_button.scss */
+.two-line-download-button strong {
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+/* line 39, ../../app/assets/stylesheets/addons/_download_button.scss */
+.two-line-download-button:hover {
+  color: #fff;
+  background-color: #87bf2e;
+  background-image: -webkit-linear-gradient(top, #8dd619 0%, #9bce46 48%, #82c21a 49%, #82c21a 85%, #86c520 100%);
+  background-image: -moz-linear-gradient(top, #8dd619 0%, #9bce46 48%, #82c21a 49%, #82c21a 85%, #86c520 100%);
+  background-image: -ms-linear-gradient(top, #8dd619 0%, #9bce46 48%, #82c21a 49%, #82c21a 85%, #86c520 100%);
+  background-image: -o-linear-gradient(top, #8dd619 0%, #9bce46 48%, #82c21a 49%, #82c21a 85%, #86c520 100%);
+  background-image: linear-gradient(top, #8dd619 0%, #9bce46 48%, #82c21a 49%, #82c21a 85%, #86c520 100%);
+  -webkit-box-shadow: inset 0 0 1px 1px #bae673, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #bae673, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px #bae673, 0 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+/* line 54, ../../app/assets/stylesheets/addons/_download_button.scss */
+.two-line-download-button:active {
+  padding-top: 11px;
+  padding-bottom: 11px;
+  color: #fff;
+  background-color: #67951b;
+  background-image: -webkit-linear-gradient(top, #659418 0%, #7cb521 100%);
+  background-image: -moz-linear-gradient(top, #659418 0%, #7cb521 100%);
+  background-image: -ms-linear-gradient(top, #659418 0%, #7cb521 100%);
+  background-image: -o-linear-gradient(top, #659418 0%, #7cb521 100%);
+  background-image: linear-gradient(top, #659418 0%, #7cb521 100%);
+}
+
+/* line 204, ../../app/assets/stylesheets/light.css.scss */
+.download-button {
+  display: block;
+  float: left;
+  text-align: center;
+  background-color: #73b10e;
+  border: 1px solid #558507;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  line-height: 1.1;
+  padding: 10px 26px 10px;
+  -moz-text-shadow: 1px 1px 1px #3f5d0d;
+  -webkit-text-shadow: 1px 1px 1px #3f5d0d;
+  -o-text-shadow: 1px 1px 1px #3f5d0d;
+  text-shadow: 1px 1px 1px #3f5d0d;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 30px;
+  background-image: -webkit-linear-gradient(top, #b3dc71 0%, #76a628 48%, #699d15 49%, #699d15 85%, #89c626 100%);
+  background-image: -moz-linear-gradient(top, #b3dc71 0%, #76a628 48%, #699d15 49%, #699d15 85%, #89c626 100%);
+  background-image: -ms-linear-gradient(top, #b3dc71 0%, #76a628 48%, #699d15 49%, #699d15 85%, #89c626 100%);
+  background-image: -o-linear-gradient(top, #b3dc71 0%, #76a628 48%, #699d15 49%, #699d15 85%, #89c626 100%);
+  background-image: linear-gradient(top, #b3dc71 0%, #76a628 48%, #699d15 49%, #699d15 85%, #89c626 100%);
+  -webkit-box-shadow: inset 0 0 1px 1px #c2e48c, 0 0 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 0 1px 1px #c2e48c, 0 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 1px 1px #c2e48c, 0 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+/* line 39, ../../app/assets/stylesheets/addons/_download_button.scss */
+.download-button:hover {
+  color: #fff;
+  background-color: #87bf2e;
+  background-image: -webkit-linear-gradient(top, #bce975 0%, #82b92b 48%, #77b217 49%, #77b217 85%, #9de031 100%);
+  background-image: -moz-linear-gradient(top, #bce975 0%, #82b92b 48%, #77b217 49%, #77b217 85%, #9de031 100%);
+  background-image: -ms-linear-gradient(top, #bce975 0%, #82b92b 48%, #77b217 49%, #77b217 85%, #9de031 100%);
+  background-image: -o-linear-gradient(top, #bce975 0%, #82b92b 48%, #77b217 49%, #77b217 85%, #9de031 100%);
+  background-image: linear-gradient(top, #bce975 0%, #82b92b 48%, #77b217 49%, #77b217 85%, #9de031 100%);
+  -webkit-box-shadow: inset 0 0 1px 1px #c3ed7f, 0 0 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 0 1px 1px #c3ed7f, 0 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 1px 1px #c3ed7f, 0 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+/* line 54, ../../app/assets/stylesheets/addons/_download_button.scss */
+.download-button:active {
+  padding-top: 11px;
+  padding-bottom: 9px;
+  color: #fff;
+  background-color: #67951b;
+  background-image: -webkit-linear-gradient(top, #649513 0%, #9ada34 100%);
+  background-image: -moz-linear-gradient(top, #649513 0%, #9ada34 100%);
+  background-image: -ms-linear-gradient(top, #649513 0%, #9ada34 100%);
+  background-image: -o-linear-gradient(top, #649513 0%, #9ada34 100%);
+  background-image: linear-gradient(top, #649513 0%, #9ada34 100%);
+}
+
+/* line 207, ../../app/assets/stylesheets/light.css.scss */
+.buy-button {
+  display: block;
+  float: left;
+  background-color: #eef5fb;
+  border: 1px solid #85a6c5;
+  color: #162a3c;
+  text-decoration: none;
+  line-height: 1;
+  border-radius: 35px;
+  font-size: 12px;
+  text-align: center;
+  font-size: 11px;
+  padding: 7px 15px 7px;
+  background-image: -webkit-linear-gradient(top, #fafcfe 0%, #d0e8fb 48%, #c5e3fa 49%, #c5e3fa 85%, #def0fe 100%);
+  background-image: -moz-linear-gradient(top, #fafcfe 0%, #d0e8fb 48%, #c5e3fa 49%, #c5e3fa 85%, #def0fe 100%);
+  background-image: -ms-linear-gradient(top, #fafcfe 0%, #d0e8fb 48%, #c5e3fa 49%, #c5e3fa 85%, #def0fe 100%);
+  background-image: -o-linear-gradient(top, #fafcfe 0%, #d0e8fb 48%, #c5e3fa 49%, #c5e3fa 85%, #def0fe 100%);
+  background-image: linear-gradient(top, #fafcfe 0%, #d0e8fb 48%, #c5e3fa 49%, #c5e3fa 85%, #def0fe 100%);
+  -webkit-box-shadow: inset 0 0 1px 1px #ecf7ff, 0 0 1px 2px rgba(5, 45, 85, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px #ecf7ff, 0 0 1px 2px rgba(5, 45, 85, 0.15);
+  box-shadow: inset 0 0 1px 1px #ecf7ff, 0 0 1px 2px rgba(5, 45, 85, 0.15);
+}
+/* line 19, ../../app/assets/stylesheets/addons/_buy_button.scss */
+.buy-button strong {
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 12px;
+}
+/* line 25, ../../app/assets/stylesheets/addons/_buy_button.scss */
+.buy-button:hover {
+  color: #162a3c;
+  background-color: #f6f8fa;
+  background-image: -webkit-linear-gradient(top, #fafdfe 0%, #dff1ff 48%, #d8eeff 49%, #d8eeff 85%, #f0f8fe 100%);
+  background-image: -moz-linear-gradient(top, #fafdfe 0%, #dff1ff 48%, #d8eeff 49%, #d8eeff 85%, #f0f8fe 100%);
+  background-image: -ms-linear-gradient(top, #fafdfe 0%, #dff1ff 48%, #d8eeff 49%, #d8eeff 85%, #f0f8fe 100%);
+  background-image: -o-linear-gradient(top, #fafdfe 0%, #dff1ff 48%, #d8eeff 49%, #d8eeff 85%, #f0f8fe 100%);
+  background-image: linear-gradient(top, #fafdfe 0%, #dff1ff 48%, #d8eeff 49%, #d8eeff 85%, #f0f8fe 100%);
+  -webkit-box-shadow: inset 0 0 1px 1px white, 0 0 1px 2px rgba(5, 45, 85, 0.15);
+  -moz-box-shadow: inset 0 0 1px 1px white, 0 0 1px 2px rgba(5, 45, 85, 0.15);
+  box-shadow: inset 0 0 1px 1px white, 0 0 1px 2px rgba(5, 45, 85, 0.15);
+}
+/* line 32, ../../app/assets/stylesheets/addons/_buy_button.scss */
+.buy-button:active {
+  color: #162a3c;
+  background-color: #deeefb;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  background-image: -webkit-linear-gradient(top, #c6e4fa 0%, #f5fafe 100%);
+  background-image: -moz-linear-gradient(top, #c6e4fa 0%, #f5fafe 100%);
+  background-image: -ms-linear-gradient(top, #c6e4fa 0%, #f5fafe 100%);
+  background-image: -o-linear-gradient(top, #c6e4fa 0%, #f5fafe 100%);
+  background-image: linear-gradient(top, #c6e4fa 0%, #f5fafe 100%);
+}
