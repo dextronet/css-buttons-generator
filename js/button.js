@@ -7,7 +7,7 @@ var Button = (function($, window, undefined) {
   
   // The container for the button-like element styles
   var $container = $('<style type="text/css"></style>').appendTo("body");
-  var $button = $('<a href="" class="shiny-button"></a>').appendTo(".preview");
+  var $button = $('<a href="" class="shiny-button" onclick="return false;"></a>').appendTo(".preview");
 
   // Css classes for the styled element
   var css_classes = {
